@@ -6,11 +6,11 @@ Overview
    .. code-block:: bash
 
       sudo apt-get update
-	  sudo apt-get upgrade
-	  sudo apt-get install libopencv-dev
-	  pip3 install opencv-python == 3.4.3.18
-	  pip3 install opencv-contrib-python == 3.4.3.18
-	  pip3 install pandas
+      sudo apt-get upgrade
+      sudo apt-get install libopencv-dev
+      pip3 install opencv-python == 3.4.3.18
+      pip3 install opencv-contrib-python == 3.4.3.18
+      pip3 install pandas
       pip3 install scikit-image
       pip3 install dlib
       git clone https://github.com/coneypo/Dlib_face_recognition_from_camera
